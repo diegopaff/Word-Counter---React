@@ -5,6 +5,7 @@
 Fancy Text Counter is a feature-rich web application developed using React and TypeScript. It not only counts characters and words but also provides character limit checks for Instagram and Facebook posts.
 
 ![Fancy Text Counter](https://i.ibb.co/rmbcRgK/Fancy-text-counter.jpg>)
+Give it a try [here](fancy-word-counter-paff.netlify.app)!
 _Caption: Screenshot of the Fancy Text Counter app_
 
 ---
@@ -49,7 +50,5 @@ Leverages the power of React for a dynamic user interface and TypeScript for enh
 ## Conclusion
 
 Fancy Text Counter simplifies the process of text analysis, offering an intuitive solution for character, word, and space counting. With its clean design and efficient functionality, including specific character limit checks for Instagram and Facebook, it's an ideal tool for writers, editors, and social media enthusiasts.
-
-Give it a try [here](link_to_your_web_app)!
 
 _Thank you for exploring Fancy Text Counter!_
